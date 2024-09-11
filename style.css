@@ -1,0 +1,55 @@
+
+.body{
+    background-color: rgb(4, 4, 67);
+}
+.titte{
+text-align: center;
+color: yellow;
+}
+span{
+    color: rgb(8, 252, 8);
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: white;
+}
+img{
+    border: 2px solid yellow;
+    width: 350px;
+    height: 395px;
+}
+.box_img{
+
+    text-align: center;
+}
+table, th, td{
+    border: 1px solid yellow;
+    border-collapse: collapse;
+    color: white;
+    text-align: center;
+    height: 10px;
+    width: 110px;
+}
+.two{
+    background-color: rgb(51, 51, 144);
+    
+}
+.yangi{
+    text-align: center;
+    color: white;
+}
+.input{
+    width: 1520px;
+    height: 35px;
+    border-radius: 15px;
+}
+button{
+    background-color: yellow;
+    color: black;
+    border-radius: 20px;
+    height: 40px;
+    width: 280px;
+    border: transparent;
+    margin-left: 620px;
+}
